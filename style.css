@@ -43,6 +43,7 @@ nav{
     align-items: center;
 }
 .btn {
+    text-transform: uppercase;
     padding: 3px 8px;
     font-weight: 400;
     color: white;
